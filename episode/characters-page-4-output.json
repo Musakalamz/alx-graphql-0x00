@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        }
+      ]
+    }
+  }
+}
