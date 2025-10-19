@@ -19,7 +19,7 @@ Each query should return the following fields:
 
 ## ⚙️ GraphQL Endpoint
 
----
+## https://rickandmortyapi.com/graphql
 
 ## 📄 Files
 
